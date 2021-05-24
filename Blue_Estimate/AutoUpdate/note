@@ -1,0 +1,21 @@
+Main object - "AutoUpdate.dll"  
+ SHA256 2AEB749B9407190EC91406CC8C9B4B649747CC5CB018C66611510D2EFB1BD431 
+ SHA1 3AFAAA3126CFD833B5F280FA4D7592414C74FB1F 
+ MD5 739D14336826D078C40C9580E3396D15 
+
+Dropped executable file  
+ SHA256 C:\ProgramData\Software\Microsoft\Windows\Defender\AutoUpdate.dll
+2AEB749B9407190EC91406CC8C9B4B649747CC5CB018C66611510D2EFB1BD431 
+
+DNS requests  
+ DOMAIN yes24-mart.pe.hu 
+
+Connections  
+ IP 185.224.138.29 
+
+HTTP/HTTPS requests  
+ URL http://yes24-mart.pe.hu/bear/?m=d&p1=c4ba3647-admin 
+ URL http://yes24-mart.pe.hu/bear/?m=a&p1=c4ba3647-admin&p2=Win6.1.7601x86-D_Regsvr32-
+
+v2.0.7 
+ URL http://yes24-mart.pe.hu/bear/?m=c&p1=c4ba3647-admin
